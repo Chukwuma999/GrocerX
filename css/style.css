@@ -241,6 +241,24 @@ section{
     text-align: center;
 }
 
+.header .login-form. .signup-btn{
+    display: block;
+    width: 100%;
+    background: var(--primary-blue);
+    color: white;
+    font-weight: 700;
+    border: none;
+    padding: 1rem;
+    border-radius: 8px;
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.header .login-form. .signup-btn:hover{
+    background: #2c4891;
+    cursor: pointer;
+}
 .header .login-form.active{
     right:2rem;
     transition: .4s linear;
