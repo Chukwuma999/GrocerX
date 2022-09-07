@@ -1,5 +1,5 @@
 # GrocerX
-https://chukwuma999.github.io/GrocerX/
+
 # About the project
 This project is basically what the front end of an online Grocery shop looks like
 
